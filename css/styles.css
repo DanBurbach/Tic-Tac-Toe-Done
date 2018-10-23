@@ -1,0 +1,22 @@
+#letter {
+  display: none;
+}
+
+.jumbotron-header {
+  background-image: url(https://tylermoeller.github.io/fccfe/tic-tac-toe/assets/img/chalkboard.jpg);
+  border-radius: 20px;
+  color: white;
+}
+
+.butt {
+   background-color: lightGreen;
+   height:100px;
+   width:100px;
+   cursor:pointer;
+   border-radius: 20px;
+}
+
+.butt:hover {
+   background-color: grey;
+   color:white;
+}
